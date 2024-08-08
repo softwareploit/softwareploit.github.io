@@ -1,0 +1,23 @@
+{
+  "short_name": "SFTPROJECT",
+  "name": "Software Ploit Project",
+  "description": "Farm SFTPROJECT with SFTPROJECT LP Tokens",
+  "homepage_url": "https://swap.softwareploit.top",
+  "start_url": "https://swap/ftwareploit.top",
+  "display": "standalone",
+  "theme_color": "#A55ADF",
+  "background_color": "#efe9e7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
