@@ -14,7 +14,7 @@
                 L = t(235),
                 w = t(13),
                 y = t(100),
-                C = t.p + "static/media/icon1.bd150390.png",
+                C = t.p + "static/media/sftproject.png",
                 S = t(0),
                 k = function () {
                     return Object(f.f)(i || (i = Object(x.a)(["\n  from {\n    opacity: 0.9;\n  }\n  50% {\n    opacity: 0.1;\n  }\n  to {\n    opacity: 0.9;\n  }  \n"])))
